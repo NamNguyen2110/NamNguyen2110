@@ -8,5 +8,4 @@ Currently improving my Coding skills: SQL, DevOps, Datastructure & Algorithm
 
 Stay in touch:                   
 -- Facebook: https://www.facebook.com/nguyenvannam2110/ 
-
--- Linkedin: https://www.linkedin.com/in/nam-nguyen-2110/
+-- Skype: live:.cid.fa4c3f490c969c45
